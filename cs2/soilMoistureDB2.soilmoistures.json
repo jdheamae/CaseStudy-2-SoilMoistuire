@@ -1,0 +1,6150 @@
+[{
+  "_id": {
+    "$oid": "6654c0280097bfaaa94dac85"
+  },
+  "soil_moisture": 494,
+  "timestamp": 4007,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0320097bfaaa94dac87"
+  },
+  "soil_moisture": 487,
+  "timestamp": 4017,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c03c0097bfaaa94dac8a"
+  },
+  "soil_moisture": 494,
+  "timestamp": 4027,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0460097bfaaa94dac8e"
+  },
+  "soil_moisture": 494,
+  "timestamp": 4038,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0500097bfaaa94dac90"
+  },
+  "soil_moisture": 494,
+  "timestamp": 4048,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c05a0097bfaaa94dac93"
+  },
+  "soil_moisture": 494,
+  "timestamp": 4058,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0640097bfaaa94dac95"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 4068,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c06e0097bfaaa94dac98"
+  },
+  "soil_moisture": 930,
+  "timestamp": 4078,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0780097bfaaa94dac9a"
+  },
+  "soil_moisture": 931,
+  "timestamp": 4088,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0820097bfaaa94dac9d"
+  },
+  "soil_moisture": 932,
+  "timestamp": 4098,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c08d0097bfaaa94dac9f"
+  },
+  "soil_moisture": 931,
+  "timestamp": 4108,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0970097bfaaa94daca2"
+  },
+  "soil_moisture": 930,
+  "timestamp": 4118,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0a10097bfaaa94daca4"
+  },
+  "soil_moisture": 930,
+  "timestamp": 4128,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0ab0097bfaaa94daca7"
+  },
+  "soil_moisture": 303,
+  "timestamp": 4138,
+  "date": "1970-1-1",
+  "soil_status": "High moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0b50097bfaaa94daca9"
+  },
+  "soil_moisture": 484,
+  "timestamp": 4148,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0bf0097bfaaa94dacac"
+  },
+  "soil_moisture": 493,
+  "timestamp": 4158,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0c90097bfaaa94dacae"
+  },
+  "soil_moisture": 370,
+  "timestamp": 4168,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0d30097bfaaa94dacb1"
+  },
+  "soil_moisture": 460,
+  "timestamp": 4179,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0dd0097bfaaa94dacb3"
+  },
+  "soil_moisture": 464,
+  "timestamp": 4189,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0e70097bfaaa94dacb6"
+  },
+  "soil_moisture": 967,
+  "timestamp": 4199,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0f10097bfaaa94dacb8"
+  },
+  "soil_moisture": 469,
+  "timestamp": 4209,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c0fb0097bfaaa94dacbb"
+  },
+  "soil_moisture": 835,
+  "timestamp": 4219,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1050097bfaaa94dacbd"
+  },
+  "soil_moisture": 469,
+  "timestamp": 4229,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c10f0097bfaaa94dacc0"
+  },
+  "soil_moisture": 988,
+  "timestamp": 4239,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1190097bfaaa94dacc2"
+  },
+  "soil_moisture": 473,
+  "timestamp": 4249,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1230097bfaaa94dacc5"
+  },
+  "soil_moisture": 485,
+  "timestamp": 4259,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c12d0097bfaaa94dacc7"
+  },
+  "soil_moisture": 488,
+  "timestamp": 4269,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1370097bfaaa94dacca"
+  },
+  "soil_moisture": 661,
+  "timestamp": 4279,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1410097bfaaa94daccc"
+  },
+  "soil_moisture": 477,
+  "timestamp": 4289,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c14b0097bfaaa94daccf"
+  },
+  "soil_moisture": 489,
+  "timestamp": 4299,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1560097bfaaa94dacd1"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 4309,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1600097bfaaa94dacd4"
+  },
+  "soil_moisture": 293,
+  "timestamp": 4320,
+  "date": "1970-1-1",
+  "soil_status": "High moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c16a0097bfaaa94dacd6"
+  },
+  "soil_moisture": 449,
+  "timestamp": 4330,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1740097bfaaa94dacd9"
+  },
+  "soil_moisture": 512,
+  "timestamp": 4340,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c17e0097bfaaa94dacdb"
+  },
+  "soil_moisture": 516,
+  "timestamp": 4350,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1880097bfaaa94dacde"
+  },
+  "soil_moisture": 516,
+  "timestamp": 4360,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1920097bfaaa94dace0"
+  },
+  "soil_moisture": 518,
+  "timestamp": 4370,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c19c0097bfaaa94dace3"
+  },
+  "soil_moisture": 518,
+  "timestamp": 4380,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1b00097bfaaa94dace6"
+  },
+  "soil_moisture": 512,
+  "timestamp": 6,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1cb0097bfaaa94dace9"
+  },
+  "soil_moisture": 513,
+  "timestamp": 7,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1df0097bfaaa94dacec"
+  },
+  "soil_moisture": 519,
+  "timestamp": 27,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c1f30097bfaaa94dacef"
+  },
+  "soil_moisture": 521,
+  "timestamp": 47,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2070097bfaaa94dacf2"
+  },
+  "soil_moisture": 519,
+  "timestamp": 67,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c21b0097bfaaa94dacf5"
+  },
+  "soil_moisture": 519,
+  "timestamp": 87,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c22f0097bfaaa94dacf8"
+  },
+  "soil_moisture": 517,
+  "timestamp": 107,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2430097bfaaa94dacfb"
+  },
+  "soil_moisture": 518,
+  "timestamp": 127,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2570097bfaaa94dacfe"
+  },
+  "soil_moisture": 517,
+  "timestamp": 147,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c26b0097bfaaa94dad00"
+  },
+  "soil_moisture": 517,
+  "timestamp": 167,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c27f0097bfaaa94dad03"
+  },
+  "soil_moisture": 517,
+  "timestamp": 187,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2930097bfaaa94dad05"
+  },
+  "soil_moisture": 518,
+  "timestamp": 207,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2a70097bfaaa94dad07"
+  },
+  "soil_moisture": 518,
+  "timestamp": 227,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2bb0097bfaaa94dad0b"
+  },
+  "soil_moisture": 517,
+  "timestamp": 247,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2cf0097bfaaa94dad0e"
+  },
+  "soil_moisture": 516,
+  "timestamp": 268,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2e30097bfaaa94dad11"
+  },
+  "soil_moisture": 513,
+  "timestamp": 288,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c2f70097bfaaa94dad14"
+  },
+  "soil_moisture": 514,
+  "timestamp": 308,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c4ee0097bfaaa94dad1f"
+  },
+  "soil_moisture": 502,
+  "timestamp": 7,
+  "date": "1970-1-1 0:0:7",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5020097bfaaa94dad22"
+  },
+  "soil_moisture": 509,
+  "timestamp": 27,
+  "date": "1970-1-1 0:0:27",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5160097bfaaa94dad24"
+  },
+  "soil_moisture": 510,
+  "timestamp": 47,
+  "date": "1970-1-1 0:0:47",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c52a0097bfaaa94dad26"
+  },
+  "soil_moisture": 511,
+  "timestamp": 67,
+  "date": "1970-1-1 0:1:7",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c53e0097bfaaa94dad29"
+  },
+  "soil_moisture": 508,
+  "timestamp": 87,
+  "date": "1970-1-1 0:1:27",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5520097bfaaa94dad2b"
+  },
+  "soil_moisture": 509,
+  "timestamp": 108,
+  "date": "1970-1-1 0:1:48",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5660097bfaaa94dad31"
+  },
+  "soil_moisture": 508,
+  "timestamp": 128,
+  "date": "1970-1-1 0:2:8",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c57a0097bfaaa94dad34"
+  },
+  "soil_moisture": 508,
+  "timestamp": 148,
+  "date": "1970-1-1 0:2:28",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c58e0097bfaaa94dad37"
+  },
+  "soil_moisture": 510,
+  "timestamp": 168,
+  "date": "1970-1-1 0:2:48",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5a20097bfaaa94dad3a"
+  },
+  "soil_moisture": 502,
+  "timestamp": 188,
+  "date": "1970-1-1 0:3:8",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5b60097bfaaa94dad3d"
+  },
+  "soil_moisture": 510,
+  "timestamp": 208,
+  "date": "1970-1-1 0:3:28",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5ca0097bfaaa94dad40"
+  },
+  "soil_moisture": 501,
+  "timestamp": 228,
+  "date": "1970-1-1 0:3:48",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5de0097bfaaa94dad43"
+  },
+  "soil_moisture": 508,
+  "timestamp": 248,
+  "date": "1970-1-1 0:4:8",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c5f70097bfaaa94dad46"
+  },
+  "soil_moisture": 508,
+  "timestamp": 273,
+  "date": "1970-1-1 0:4:33",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c60b0097bfaaa94dad49"
+  },
+  "soil_moisture": 509,
+  "timestamp": 293,
+  "date": "1970-1-1 0:4:53",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c61f0097bfaaa94dad4c"
+  },
+  "soil_moisture": 509,
+  "timestamp": 313,
+  "date": "1970-1-1 0:5:13",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6330097bfaaa94dad4f"
+  },
+  "soil_moisture": 514,
+  "timestamp": 333,
+  "date": "1970-1-1 0:5:33",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6470097bfaaa94dad52"
+  },
+  "soil_moisture": 509,
+  "timestamp": 353,
+  "date": "1970-1-1 0:5:53",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c65b0097bfaaa94dad55"
+  },
+  "soil_moisture": 514,
+  "timestamp": 373,
+  "date": "1970-1-1 0:6:13",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c66d0097bfaaa94dad5a"
+  },
+  "soil_moisture": 508,
+  "timestamp": 7,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6810097bfaaa94dad5d"
+  },
+  "soil_moisture": 514,
+  "timestamp": 27,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6950097bfaaa94dad60"
+  },
+  "soil_moisture": 514,
+  "timestamp": 47,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6a90097bfaaa94dad63"
+  },
+  "soil_moisture": 516,
+  "timestamp": 67,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6bd0097bfaaa94dad66"
+  },
+  "soil_moisture": 514,
+  "timestamp": 87,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6d20097bfaaa94dad69"
+  },
+  "soil_moisture": 514,
+  "timestamp": 107,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6e60097bfaaa94dad6c"
+  },
+  "soil_moisture": 514,
+  "timestamp": 127,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c6fa0097bfaaa94dad6f"
+  },
+  "soil_moisture": 514,
+  "timestamp": 147,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c70e0097bfaaa94dad72"
+  },
+  "soil_moisture": 513,
+  "timestamp": 167,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7220097bfaaa94dad75"
+  },
+  "soil_moisture": 514,
+  "timestamp": 187,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7360097bfaaa94dad77"
+  },
+  "soil_moisture": 514,
+  "timestamp": 207,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c74a0097bfaaa94dad7a"
+  },
+  "soil_moisture": 514,
+  "timestamp": 228,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c75e0097bfaaa94dad7d"
+  },
+  "soil_moisture": 513,
+  "timestamp": 248,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7720097bfaaa94dad80"
+  },
+  "soil_moisture": 514,
+  "timestamp": 268,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7860097bfaaa94dad83"
+  },
+  "soil_moisture": 513,
+  "timestamp": 288,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c79a0097bfaaa94dad86"
+  },
+  "soil_moisture": 513,
+  "timestamp": 308,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7ae0097bfaaa94dad88"
+  },
+  "soil_moisture": 514,
+  "timestamp": 328,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7c20097bfaaa94dad8a"
+  },
+  "soil_moisture": 514,
+  "timestamp": 348,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7d60097bfaaa94dad8d"
+  },
+  "soil_moisture": 513,
+  "timestamp": 368,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7ea0097bfaaa94dad8f"
+  },
+  "soil_moisture": 507,
+  "timestamp": 388,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c7fe0097bfaaa94dad91"
+  },
+  "soil_moisture": 514,
+  "timestamp": 408,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c9910097bfaaa94dad9a"
+  },
+  "soil_moisture": 508,
+  "timestamp": 7,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c9a50097bfaaa94dad9c"
+  },
+  "soil_moisture": 513,
+  "timestamp": 27,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c9b90097bfaaa94dad9f"
+  },
+  "soil_moisture": 507,
+  "timestamp": 47,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c9cd0097bfaaa94dada1"
+  },
+  "soil_moisture": 513,
+  "timestamp": 67,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c9e10097bfaaa94dada3"
+  },
+  "soil_moisture": 513,
+  "timestamp": 87,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654c9f50097bfaaa94dada6"
+  },
+  "soil_moisture": 513,
+  "timestamp": 108,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca090097bfaaa94dada8"
+  },
+  "soil_moisture": 513,
+  "timestamp": 128,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca1e0097bfaaa94dadaa"
+  },
+  "soil_moisture": 513,
+  "timestamp": 148,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca320097bfaaa94dadad"
+  },
+  "soil_moisture": 513,
+  "timestamp": 168,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca460097bfaaa94dadaf"
+  },
+  "soil_moisture": 513,
+  "timestamp": 188,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca5a0097bfaaa94dadb1"
+  },
+  "soil_moisture": 513,
+  "timestamp": 208,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca6e0097bfaaa94dadb4"
+  },
+  "soil_moisture": 513,
+  "timestamp": 228,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca820097bfaaa94dadb6"
+  },
+  "soil_moisture": 513,
+  "timestamp": 248,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ca960097bfaaa94dadb8"
+  },
+  "soil_moisture": 513,
+  "timestamp": 268,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cbebc12db0807757020d"
+  },
+  "soil_moisture": 507,
+  "timestamp": 6,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cbffc12db0807757020f"
+  },
+  "soil_moisture": 508,
+  "timestamp": 26,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc13c12db08077570214"
+  },
+  "soil_moisture": 513,
+  "timestamp": 46,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc27c12db08077570217"
+  },
+  "soil_moisture": 513,
+  "timestamp": 66,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc3bc12db0807757021a"
+  },
+  "soil_moisture": 513,
+  "timestamp": 86,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc4fc12db0807757021d"
+  },
+  "soil_moisture": 512,
+  "timestamp": 106,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc63c12db08077570220"
+  },
+  "soil_moisture": 513,
+  "timestamp": 126,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc78c12db08077570223"
+  },
+  "soil_moisture": 513,
+  "timestamp": 146,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cc8cc12db08077570225"
+  },
+  "soil_moisture": 511,
+  "timestamp": 166,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cca0c12db08077570227"
+  },
+  "soil_moisture": 512,
+  "timestamp": 186,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ccb4c12db0807757022a"
+  },
+  "soil_moisture": 513,
+  "timestamp": 206,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ccc8c12db0807757022c"
+  },
+  "soil_moisture": 512,
+  "timestamp": 226,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ccdcc12db0807757022e"
+  },
+  "soil_moisture": 513,
+  "timestamp": 246,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cd3159c4c9365f43585e"
+  },
+  "soil_moisture": 513,
+  "timestamp": 331,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cd4559c4c9365f435861"
+  },
+  "soil_moisture": 513,
+  "timestamp": 351,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cd5959c4c9365f435864"
+  },
+  "soil_moisture": 513,
+  "timestamp": 371,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cd6d59c4c9365f435867"
+  },
+  "soil_moisture": 513,
+  "timestamp": 391,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cd8159c4c9365f43586b"
+  },
+  "soil_moisture": 513,
+  "timestamp": 411,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cd9559c4c9365f43586e"
+  },
+  "soil_moisture": 513,
+  "timestamp": 431,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cda959c4c9365f435871"
+  },
+  "soil_moisture": 513,
+  "timestamp": 452,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cdbd59c4c9365f435874"
+  },
+  "soil_moisture": 513,
+  "timestamp": 472,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cdd159c4c9365f435877"
+  },
+  "soil_moisture": 513,
+  "timestamp": 492,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cde559c4c9365f43587a"
+  },
+  "soil_moisture": 513,
+  "timestamp": 512,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cdf959c4c9365f43587d"
+  },
+  "soil_moisture": 513,
+  "timestamp": 532,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce0d59c4c9365f43587f"
+  },
+  "soil_moisture": 513,
+  "timestamp": 552,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce2159c4c9365f435881"
+  },
+  "soil_moisture": 513,
+  "timestamp": 572,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce3559c4c9365f435884"
+  },
+  "soil_moisture": 512,
+  "timestamp": 592,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce4959c4c9365f435886"
+  },
+  "soil_moisture": 513,
+  "timestamp": 612,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce5d59c4c9365f435888"
+  },
+  "soil_moisture": 512,
+  "timestamp": 632,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce7259c4c9365f43588b"
+  },
+  "soil_moisture": 512,
+  "timestamp": 652,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce8659c4c9365f43588e"
+  },
+  "soil_moisture": 513,
+  "timestamp": 672,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ce9a59c4c9365f435891"
+  },
+  "soil_moisture": 512,
+  "timestamp": 692,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ceae59c4c9365f435894"
+  },
+  "soil_moisture": 512,
+  "timestamp": 712,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cec259c4c9365f435897"
+  },
+  "soil_moisture": 512,
+  "timestamp": 732,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ced659c4c9365f435899"
+  },
+  "soil_moisture": 511,
+  "timestamp": 752,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ceea59c4c9365f43589c"
+  },
+  "soil_moisture": 512,
+  "timestamp": 772,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cefe59c4c9365f43589e"
+  },
+  "soil_moisture": 512,
+  "timestamp": 792,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf1259c4c9365f4358a0"
+  },
+  "soil_moisture": 512,
+  "timestamp": 812,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf2659c4c9365f4358a3"
+  },
+  "soil_moisture": 512,
+  "timestamp": 832,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf3a59c4c9365f4358a5"
+  },
+  "soil_moisture": 511,
+  "timestamp": 852,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf4e59c4c9365f4358a7"
+  },
+  "soil_moisture": 512,
+  "timestamp": 872,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf6259c4c9365f4358aa"
+  },
+  "soil_moisture": 512,
+  "timestamp": 892,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf7659c4c9365f4358ac"
+  },
+  "soil_moisture": 512,
+  "timestamp": 912,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf8a59c4c9365f4358ae"
+  },
+  "soil_moisture": 511,
+  "timestamp": 932,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cf9e59c4c9365f4358b1"
+  },
+  "soil_moisture": 510,
+  "timestamp": 953,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cfb259c4c9365f4358b3"
+  },
+  "soil_moisture": 509,
+  "timestamp": 973,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cfc659c4c9365f4358b5"
+  },
+  "soil_moisture": 511,
+  "timestamp": 993,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cfda59c4c9365f4358b8"
+  },
+  "soil_moisture": 512,
+  "timestamp": 1013,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654cfee59c4c9365f4358bc"
+  },
+  "soil_moisture": 512,
+  "timestamp": 1033,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d00259c4c9365f4358be"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1053,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d01659c4c9365f4358c1"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1073,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d02a59c4c9365f4358c4"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1093,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d03e59c4c9365f4358c8"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1113,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d05359c4c9365f4358cb"
+  },
+  "soil_moisture": 509,
+  "timestamp": 1133,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d06759c4c9365f4358ce"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1153,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d07b59c4c9365f4358d1"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1173,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d08f59c4c9365f4358d4"
+  },
+  "soil_moisture": 509,
+  "timestamp": 1193,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d0a359c4c9365f4358d7"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1213,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d0b759c4c9365f4358d9"
+  },
+  "soil_moisture": 509,
+  "timestamp": 1233,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d0cb59c4c9365f4358dc"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1253,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d0df59c4c9365f4358e0"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1273,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d0f359c4c9365f4358e3"
+  },
+  "soil_moisture": 509,
+  "timestamp": 1293,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d10759c4c9365f4358e7"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1313,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d11b59c4c9365f4358ea"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1333,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d12f59c4c9365f4358ed"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1353,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d14359c4c9365f4358f0"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1373,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d15759c4c9365f4358f3"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1393,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d16b59c4c9365f4358f8"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1413,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d17f59c4c9365f4358fb"
+  },
+  "soil_moisture": 502,
+  "timestamp": 1434,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d19359c4c9365f4358fe"
+  },
+  "soil_moisture": 502,
+  "timestamp": 1454,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d1a759c4c9365f435901"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1474,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d1bb59c4c9365f435904"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1494,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d1cf59c4c9365f435907"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1514,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d1e359c4c9365f435909"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1534,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d1f759c4c9365f43590c"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1554,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d20b59c4c9365f43590e"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1574,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d21f59c4c9365f435910"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1594,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d23459c4c9365f435913"
+  },
+  "soil_moisture": 502,
+  "timestamp": 1614,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d24859c4c9365f435915"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1634,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d25c59c4c9365f435917"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1654,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d27059c4c9365f43591a"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1674,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d28459c4c9365f43591c"
+  },
+  "soil_moisture": 508,
+  "timestamp": 1694,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d29859c4c9365f43591e"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1714,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d2ac59c4c9365f435923"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1734,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d2c059c4c9365f435928"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1754,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d2d459c4c9365f43592b"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1774,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d2e859c4c9365f435930"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1794,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d2fc59c4c9365f435933"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1814,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d31059c4c9365f435936"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1834,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d32459c4c9365f435939"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1854,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d33859c4c9365f43593c"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1874,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d34c59c4c9365f43593f"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1894,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d36059c4c9365f435942"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1914,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d37459c4c9365f435945"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1935,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d38859c4c9365f435948"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1955,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d39c59c4c9365f43594b"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1975,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d3b059c4c9365f43594d"
+  },
+  "soil_moisture": 507,
+  "timestamp": 1995,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d3c459c4c9365f43594f"
+  },
+  "soil_moisture": 507,
+  "timestamp": 2015,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d3d859c4c9365f435952"
+  },
+  "soil_moisture": 507,
+  "timestamp": 2035,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d3ec59c4c9365f435958"
+  },
+  "soil_moisture": 507,
+  "timestamp": 2055,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d40159c4c9365f43595b"
+  },
+  "soil_moisture": 507,
+  "timestamp": 2075,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d41559c4c9365f43595e"
+  },
+  "soil_moisture": 501,
+  "timestamp": 2095,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d42959c4c9365f435961"
+  },
+  "soil_moisture": 498,
+  "timestamp": 2115,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d43d59c4c9365f435964"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2135,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d45159c4c9365f435967"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2155,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d46559c4c9365f435969"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2175,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d47959c4c9365f43596c"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2195,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d48d59c4c9365f43596f"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2215,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d4a159c4c9365f435972"
+  },
+  "soil_moisture": 499,
+  "timestamp": 2235,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d4b559c4c9365f435975"
+  },
+  "soil_moisture": 507,
+  "timestamp": 2255,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d4c959c4c9365f435978"
+  },
+  "soil_moisture": 507,
+  "timestamp": 2276,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d4e059c4c9365f43597a"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2296,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d4f459c4c9365f43597d"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2319,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d50859c4c9365f43597f"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2339,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d51c59c4c9365f435981"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2359,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d53059c4c9365f435984"
+  },
+  "soil_moisture": 506,
+  "timestamp": 2379,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d54459c4c9365f435986"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2399,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d55859c4c9365f43598a"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2419,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d56d59c4c9365f43598d"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2439,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d58459c4c9365f435990"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2459,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d59859c4c9365f435993"
+  },
+  "soil_moisture": 501,
+  "timestamp": 2482,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d5ac59c4c9365f435996"
+  },
+  "soil_moisture": 502,
+  "timestamp": 2502,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d5c059c4c9365f435999"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2522,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d5d459c4c9365f43599c"
+  },
+  "soil_moisture": 502,
+  "timestamp": 2542,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d5e859c4c9365f43599f"
+  },
+  "soil_moisture": 497,
+  "timestamp": 2562,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d5fc59c4c9365f4359a2"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2582,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d61059c4c9365f4359a5"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2602,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d62459c4c9365f4359a8"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2622,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d63859c4c9365f4359ab"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2642,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d64c59c4c9365f4359ae"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2662,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d66059c4c9365f4359b1"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2682,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d67459c4c9365f4359b3"
+  },
+  "soil_moisture": 502,
+  "timestamp": 2702,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d68859c4c9365f4359b8"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2723,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d69c59c4c9365f4359bc"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2743,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d6b059c4c9365f4359bf"
+  },
+  "soil_moisture": 501,
+  "timestamp": 2763,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d6c459c4c9365f4359c2"
+  },
+  "soil_moisture": 502,
+  "timestamp": 2783,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d6d859c4c9365f4359c5"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2803,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d6ec59c4c9365f4359c9"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2823,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d70359c4c9365f4359cd"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2845,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d71759c4c9365f4359d1"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2865,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d72b59c4c9365f4359d5"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2885,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d73f59c4c9365f4359d8"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2905,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d75359c4c9365f4359db"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2926,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d76759c4c9365f4359de"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2946,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d77b59c4c9365f4359e1"
+  },
+  "soil_moisture": 505,
+  "timestamp": 2966,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d78f59c4c9365f4359e6"
+  },
+  "soil_moisture": 504,
+  "timestamp": 2986,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d7a359c4c9365f4359e9"
+  },
+  "soil_moisture": 504,
+  "timestamp": 3006,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d7b759c4c9365f4359ec"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3026,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d7cc59c4c9365f4359ef"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3046,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d7e059c4c9365f4359f2"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3066,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d7f459c4c9365f4359f5"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3086,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d80859c4c9365f4359f8"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3106,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d81c59c4c9365f4359fb"
+  },
+  "soil_moisture": 502,
+  "timestamp": 3126,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d83059c4c9365f4359fe"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3146,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d84459c4c9365f435a01"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3166,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d85859c4c9365f435a04"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3186,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d86c59c4c9365f435a07"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3206,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d88059c4c9365f435a0a"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3226,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d89459c4c9365f435a0d"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3247,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d8a859c4c9365f435a10"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3267,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d8bc59c4c9365f435a13"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3287,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d8d059c4c9365f435a16"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3307,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d8e459c4c9365f435a19"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3327,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d8f859c4c9365f435a1c"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3347,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d90c59c4c9365f435a1f"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3367,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d92059c4c9365f435a22"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3387,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d93459c4c9365f435a25"
+  },
+  "soil_moisture": 498,
+  "timestamp": 3407,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d94959c4c9365f435a27"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3427,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d95d59c4c9365f435a2b"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3447,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d97159c4c9365f435a2f"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3467,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d98559c4c9365f435a32"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3487,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d99959c4c9365f435a35"
+  },
+  "soil_moisture": 502,
+  "timestamp": 3507,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d9ad59c4c9365f435a38"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3527,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d9c159c4c9365f435a3b"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3547,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d9d559c4c9365f435a3e"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3567,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d9e959c4c9365f435a41"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3587,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654d9fd59c4c9365f435a44"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3607,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da1159c4c9365f435a47"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3627,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da2559c4c9365f435a4a"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3647,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da3959c4c9365f435a4c"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3667,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da4d59c4c9365f435a50"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3687,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da6159c4c9365f435a53"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3707,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da7559c4c9365f435a56"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3728,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da8959c4c9365f435a59"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3748,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654da9d59c4c9365f435a5c"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3768,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dab159c4c9365f435a60"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3788,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dac559c4c9365f435a65"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3808,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dad959c4c9365f435a68"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3828,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654daed59c4c9365f435a6b"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3848,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db0159c4c9365f435a6e"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3868,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db1559c4c9365f435a71"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3888,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db2959c4c9365f435a74"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3908,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db3d59c4c9365f435a79"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3928,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db5159c4c9365f435a7c"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3948,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db6659c4c9365f435a80"
+  },
+  "soil_moisture": 505,
+  "timestamp": 3968,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db7a59c4c9365f435a83"
+  },
+  "soil_moisture": 506,
+  "timestamp": 3988,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654db8e59c4c9365f435a86"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4008,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dba259c4c9365f435a89"
+  },
+  "soil_moisture": 504,
+  "timestamp": 4028,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dbb659c4c9365f435a8c"
+  },
+  "soil_moisture": 500,
+  "timestamp": 4048,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dbca59c4c9365f435a8f"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4068,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dbde59c4c9365f435a92"
+  },
+  "soil_moisture": 504,
+  "timestamp": 4088,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dbf259c4c9365f435a94"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4108,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc0659c4c9365f435a97"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4128,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc1a59c4c9365f435a99"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4148,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc2e59c4c9365f435a9b"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4168,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc4259c4c9365f435a9e"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4188,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc5659c4c9365f435aa0"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4209,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc6a59c4c9365f435aa2"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4229,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc7e59c4c9365f435aa5"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4249,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dc9259c4c9365f435aa7"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4269,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dca659c4c9365f435aa9"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4289,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dcba59c4c9365f435aac"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4309,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dcce59c4c9365f435aae"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4329,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dce259c4c9365f435ab0"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4349,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dcf6a72bbe5d2c573bc7"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4369,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd0ba72bbe5d2c573bca"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4389,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd1fa72bbe5d2c573bcd"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4409,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd33a72bbe5d2c573bd0"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4429,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd47a72bbe5d2c573bd3"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4449,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd5ba72bbe5d2c573bd6"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4469,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd6fa72bbe5d2c573bd9"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4489,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd83a72bbe5d2c573bdc"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4509,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dd97a72bbe5d2c573bdf"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4529,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ddaba72bbe5d2c573be2"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4549,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ddbfa72bbe5d2c573be5"
+  },
+  "soil_moisture": 505,
+  "timestamp": 4569,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ddd3a72bbe5d2c573be8"
+  },
+  "soil_moisture": 504,
+  "timestamp": 4589,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dde7a72bbe5d2c573beb"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4609,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ddfba72bbe5d2c573bed"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4629,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de0fa72bbe5d2c573bef"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4649,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de23a72bbe5d2c573bf2"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4670,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de37a72bbe5d2c573bf4"
+  },
+  "soil_moisture": 496,
+  "timestamp": 4690,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de4ba72bbe5d2c573bf7"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4710,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de5fa72bbe5d2c573bfa"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4730,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de73a72bbe5d2c573bfd"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4750,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de87a72bbe5d2c573c00"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4770,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654de9ba72bbe5d2c573c03"
+  },
+  "soil_moisture": 500,
+  "timestamp": 4790,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654deafa72bbe5d2c573c06"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4810,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dec3a72bbe5d2c573c08"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4830,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ded7a72bbe5d2c573c0b"
+  },
+  "soil_moisture": 502,
+  "timestamp": 4850,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654deeca72bbe5d2c573c0d"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4870,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df00a72bbe5d2c573c0f"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4890,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df14a72bbe5d2c573c12"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4910,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df28a72bbe5d2c573c14"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4930,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df3ca72bbe5d2c573c16"
+  },
+  "soil_moisture": 500,
+  "timestamp": 4950,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df50a72bbe5d2c573c1a"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4970,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df64a72bbe5d2c573c1c"
+  },
+  "soil_moisture": 501,
+  "timestamp": 4990,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df78a72bbe5d2c573c1e"
+  },
+  "soil_moisture": 501,
+  "timestamp": 5010,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654df8ca72bbe5d2c573c20"
+  },
+  "soil_moisture": 502,
+  "timestamp": 5030,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dfa0a72bbe5d2c573c22"
+  },
+  "soil_moisture": 502,
+  "timestamp": 5050,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dfb4a72bbe5d2c573c24"
+  },
+  "soil_moisture": 502,
+  "timestamp": 5070,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dfc8a72bbe5d2c573c28"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5090,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dfdca72bbe5d2c573c2b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5110,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654dff0a72bbe5d2c573c2e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5131,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e004a72bbe5d2c573c31"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5151,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e018a72bbe5d2c573c34"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5171,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e02ca72bbe5d2c573c37"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5191,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e040a72bbe5d2c573c3a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5211,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e054a72bbe5d2c573c3d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5231,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e068a72bbe5d2c573c40"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5251,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e07ca72bbe5d2c573c43"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5271,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e090a72bbe5d2c573c46"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5291,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e0a4a72bbe5d2c573c49"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5311,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e0b8a72bbe5d2c573c4c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5331,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e0cda72bbe5d2c573c4e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5351,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e0e1a72bbe5d2c573c50"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5371,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e0f5a72bbe5d2c573c53"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5391,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e109a72bbe5d2c573c56"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5411,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e11da72bbe5d2c573c5a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5431,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e131a72bbe5d2c573c5d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5451,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e145a72bbe5d2c573c61"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5471,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e159a72bbe5d2c573c64"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5491,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e16da72bbe5d2c573c67"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5511,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e181a72bbe5d2c573c6a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5531,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e195a72bbe5d2c573c6d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5551,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e1a9a72bbe5d2c573c70"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5571,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e1bda72bbe5d2c573c73"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5591,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e1d1a72bbe5d2c573c75"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5611,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e1e5a72bbe5d2c573c78"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5631,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e1f9a72bbe5d2c573c7a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5652,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e20da72bbe5d2c573c7c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5672,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e221a72bbe5d2c573c7f"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5692,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e235a72bbe5d2c573c84"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5712,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e249a72bbe5d2c573c87"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5732,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e25da72bbe5d2c573c8a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5752,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e272a72bbe5d2c573c8d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5772,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e286a72bbe5d2c573c90"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5792,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e29aa72bbe5d2c573c96"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5812,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e2aea72bbe5d2c573c99"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5832,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e2c2a72bbe5d2c573c9c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5852,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e2d6a72bbe5d2c573c9f"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5872,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e2eaa72bbe5d2c573ca2"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5892,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e2fea72bbe5d2c573ca5"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5912,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e312a72bbe5d2c573ca8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5933,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e326a72bbe5d2c573cac"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5953,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e33aa72bbe5d2c573cb0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5973,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e34ea72bbe5d2c573cb3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 5993,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e362a72bbe5d2c573cb6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6013,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e376a72bbe5d2c573cb9"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6033,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e38aa72bbe5d2c573cbc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6053,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e39ea72bbe5d2c573cbf"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6073,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e3b2a72bbe5d2c573cc1"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6093,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e3c7a72bbe5d2c573cc7"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6113,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e3dba72bbe5d2c573cca"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6133,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e3efa72bbe5d2c573cd0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6153,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e408a72bbe5d2c573cd3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6178,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e41ca72bbe5d2c573cd6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6198,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e430a72bbe5d2c573cd9"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6218,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e444a72bbe5d2c573cdd"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6238,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e458a72bbe5d2c573ce0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6258,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e46ca72bbe5d2c573ce3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6278,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e480a72bbe5d2c573ce6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6298,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e494a72bbe5d2c573ce9"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6318,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e4a8a72bbe5d2c573cec"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6338,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e4bca72bbe5d2c573cee"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6358,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e4d0a72bbe5d2c573cf0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6379,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e4e4a72bbe5d2c573cf3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6399,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e4f8a72bbe5d2c573cf5"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6419,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e50ca72bbe5d2c573cf7"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6439,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e520a72bbe5d2c573cfa"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6459,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e534a72bbe5d2c573cfc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6479,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e548a72bbe5d2c573cfe"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6499,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e55ca72bbe5d2c573d01"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6519,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e570a72bbe5d2c573d03"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6539,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e584a72bbe5d2c573d05"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6559,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e599a72bbe5d2c573d08"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6579,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e5ada72bbe5d2c573d0a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6599,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e5c1a72bbe5d2c573d0c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6619,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e5d5a72bbe5d2c573d0f"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6639,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e5e9a72bbe5d2c573d11"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6659,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e5fda72bbe5d2c573d13"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6679,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e611a72bbe5d2c573d16"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6699,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e625a72bbe5d2c573d18"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6719,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e639a72bbe5d2c573d1a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6739,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e64da72bbe5d2c573d1d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6759,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e661a72bbe5d2c573d20"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6780,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e675a72bbe5d2c573d25"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6800,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e689a72bbe5d2c573d28"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6820,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e69da72bbe5d2c573d2b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6840,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e6b1a72bbe5d2c573d2e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6860,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e6c5a72bbe5d2c573d31"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6880,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e6d9a72bbe5d2c573d33"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6900,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e6eda72bbe5d2c573d35"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6920,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e701a72bbe5d2c573d38"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6940,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e715a72bbe5d2c573d3c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6960,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e729a72bbe5d2c573d40"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 6980,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e73da72bbe5d2c573d45"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7000,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e751a72bbe5d2c573d48"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7020,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e765a72bbe5d2c573d4b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7040,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e77aa72bbe5d2c573d4e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7060,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e78ea72bbe5d2c573d51"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7080,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e7a2a72bbe5d2c573d53"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7100,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e7b6a72bbe5d2c573d56"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7120,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e7caa72bbe5d2c573d59"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 7140,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e7eaa72bbe5d2c573d5d"
+  },
+  "soil_moisture": 281,
+  "timestamp": 7,
+  "date": "1970-1-1",
+  "soil_status": "High moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e7faa72bbe5d2c573d5f"
+  },
+  "soil_moisture": 334,
+  "timestamp": 7,
+  "date": "1970-1-1",
+  "soil_status": "High moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e80ea72bbe5d2c573d62"
+  },
+  "soil_moisture": 486,
+  "timestamp": 27,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e822a72bbe5d2c573d67"
+  },
+  "soil_moisture": 495,
+  "timestamp": 47,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e836bb841b1c341b479d"
+  },
+  "soil_moisture": 498,
+  "timestamp": 67,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e84abb841b1c341b47a2"
+  },
+  "soil_moisture": 499,
+  "timestamp": 87,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e85ebb841b1c341b47a5"
+  },
+  "soil_moisture": 500,
+  "timestamp": 107,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e872bb841b1c341b47a8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 127,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e886bb841b1c341b47ab"
+  },
+  "soil_moisture": 496,
+  "timestamp": 147,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e89abb841b1c341b47ae"
+  },
+  "soil_moisture": 497,
+  "timestamp": 167,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e8aebb841b1c341b47b1"
+  },
+  "soil_moisture": 361,
+  "timestamp": 187,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e8c2bb841b1c341b47b4"
+  },
+  "soil_moisture": 498,
+  "timestamp": 208,
+  "date": "1970-1-1",
+  "soil_status": "Medium moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e8d6bb841b1c341b47b7"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 228,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e8eabb841b1c341b47ba"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 248,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e8febb841b1c341b47bd"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 268,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e912bb841b1c341b47c0"
+  },
+  "soil_moisture": 305,
+  "timestamp": 288,
+  "date": "1970-1-1",
+  "soil_status": "High moisture level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e927bb841b1c341b47c3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 308,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e93bbb841b1c341b47c6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 328,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e94fbb841b1c341b47c9"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 348,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e963bb841b1c341b47cc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 368,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e977bb841b1c341b47ce"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 388,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e98bbb841b1c341b47d0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 408,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e99fbb841b1c341b47d3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 428,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e9b3bb841b1c341b47d5"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 448,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e9c7bb841b1c341b47d7"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 468,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e9dbbb841b1c341b47da"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 488,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654e9efbb841b1c341b47dc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 508,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea03bb841b1c341b47de"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 528,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea1abb841b1c341b47e1"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 548,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea2ebb841b1c341b47e3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 571,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea42bb841b1c341b47e6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 591,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea56bb841b1c341b47e9"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 611,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea6abb841b1c341b47ec"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 632,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea7ebb841b1c341b47ef"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 652,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ea92bb841b1c341b47f1"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 672,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eaa6bb841b1c341b47f3"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 692,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eababb841b1c341b47f5"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 712,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eacfbb841b1c341b47f8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 732,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eae3bb841b1c341b47fa"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 752,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eaf7bb841b1c341b47fc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 772,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eb0bbb841b1c341b47ff"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 792,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eb1fbb841b1c341b4803"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 812,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eb33bb841b1c341b4806"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 832,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eb47bb841b1c341b4809"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 852,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eb88bb841b1c341b4813"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 917,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eb9cbb841b1c341b4816"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 938,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ebb0bb841b1c341b4819"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 958,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ebc4bb841b1c341b481c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 978,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ebdbbb841b1c341b481f"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 998,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ebefbb841b1c341b4822"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1021,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec04bb841b1c341b4825"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1041,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec18bb841b1c341b4828"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1061,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec2cbb841b1c341b482b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1081,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec40bb841b1c341b482e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1101,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec54bb841b1c341b4831"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1121,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec68bb841b1c341b4834"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1141,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec7cbb841b1c341b4838"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1161,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ec90bb841b1c341b483b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1181,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eca4bb841b1c341b483e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1201,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ecb8bb841b1c341b4842"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1221,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ecccbb841b1c341b4845"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1241,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ece0bb841b1c341b4848"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1261,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ecf4bb841b1c341b484b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1281,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed08bb841b1c341b484e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1301,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed1cbb841b1c341b4851"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1322,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed31bb841b1c341b4853"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1342,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed45bb841b1c341b4855"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1362,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed59bb841b1c341b4858"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1382,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed6dbb841b1c341b485a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1402,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed81bb841b1c341b485c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1422,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ed95bb841b1c341b485f"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1442,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eda9bb841b1c341b4861"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1462,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654edbdbb841b1c341b4863"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1482,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654edd1bb841b1c341b4866"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1502,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ede5bb841b1c341b4868"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1522,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654edf9bb841b1c341b486a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1542,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee0dbb841b1c341b486d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1562,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee21bb841b1c341b486f"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1583,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee35bb841b1c341b4871"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1603,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee49bb841b1c341b4875"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1623,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee5dbb841b1c341b4878"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1643,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee72bb841b1c341b487b"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1663,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee86bb841b1c341b487e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1683,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ee9abb841b1c341b4880"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1703,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eeaebb841b1c341b4882"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1723,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eec2bb841b1c341b4885"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1743,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eed6bb841b1c341b4887"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1763,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eeeabb841b1c341b4889"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1783,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654eefebb841b1c341b488c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1803,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ef26bb841b1c341b488e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1843,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ef3abb841b1c341b4891"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1863,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ef4ebb841b1c341b4893"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1883,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ef62bb841b1c341b4895"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1903,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6654ef76bb841b1c341b4899"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1923,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a073f541545af02266e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 107,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a1d3f541545af022670"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 130,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a313f541545af022672"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 150,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a463f541545af022674"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 170,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a5a3f541545af022676"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 190,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a6e3f541545af022678"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 210,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a863f541545af02267a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 234,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554a9c3f541545af02267c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 257,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554ab03f541545af02267e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 277,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554ac43f541545af022680"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 297,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554ad93f541545af022682"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 317,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554aed3f541545af022684"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 337,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b453f541545af022686"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 357,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b453f541545af022688"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 383,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b453f541545af02268a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 409,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b4d3f541545af02268c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 434,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b613f541545af02268e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 454,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b753f541545af022690"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 474,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b893f541545af022692"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 494,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554b9d3f541545af022694"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 514,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554bb13f541545af022696"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 534,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554bc53f541545af022698"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 554,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554bd93f541545af02269a"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 574,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554bed3f541545af02269c"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 594,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c013f541545af02269e"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 614,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c163f541545af0226a0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 634,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c2a3f541545af0226a2"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 654,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c3e3f541545af0226a4"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 674,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c523f541545af0226a6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 695,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c663f541545af0226a8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 715,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c7a3f541545af0226aa"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 735,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554c8e3f541545af0226ac"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 755,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554ca23f541545af0226ae"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 775,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554cb63f541545af0226b0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 795,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554cca3f541545af0226b2"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 815,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554cde3f541545af0226b4"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 835,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554cf23f541545af0226b6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 855,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d063f541545af0226b8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 875,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d1a3f541545af0226ba"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 895,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d2e3f541545af0226bc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 915,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d433f541545af0226be"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 935,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d5a3f541545af0226c0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 958,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d6e3f541545af0226c2"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 979,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d823f541545af0226c4"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 999,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554d963f541545af0226c6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1019,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554daa3f541545af0226c8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1039,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e013f541545af0226ca"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1059,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e013f541545af0226cc"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1084,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e013f541545af0226ce"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1110,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e0a3f541545af0226d0"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1135,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e1e3f541545af0226d2"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1155,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e323f541545af0226d4"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1175,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e463f541545af0226d6"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1195,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e5a3f541545af0226d8"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1215,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554e6e3f541545af0226da"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 1235,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554f4329a87f02f1105a69"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 151,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554f5729a87f02f1105a6d"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 171,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554f6b29a87f02f1105a70"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 191,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66554f7f29a87f02f1105a73"
+  },
+  "soil_moisture": 1024,
+  "timestamp": 212,
+  "date": "1970-1-1",
+  "soil_status": "Low or dry soil level",
+  "__v": 0
+}]
